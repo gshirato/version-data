@@ -1,0 +1,18 @@
+{
+	"app":	[
+		{
+			"id":1,
+			"titre": "",
+			"fichier":"ex1.json",
+			"image": []
+		},
+		{
+			"id":2,
+			"titre": "",
+			"fichier":"ex2.json",
+			"image": []
+		}
+	]
+}
+
+// string 
